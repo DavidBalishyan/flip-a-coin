@@ -1,1 +1,1 @@
-# Flip a coin websiet using React-ts, vite, tailwindcss v4
+# Flip a coin website using React-ts, vite, tailwindcss v4
